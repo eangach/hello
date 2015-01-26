@@ -1,3 +1,3 @@
-source 'https://ruby gems.org'
+source 'https://rubygems.org'
 
 gem 'rack'
